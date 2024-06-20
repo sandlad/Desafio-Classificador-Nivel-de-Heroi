@@ -1,5 +1,5 @@
 let mc = [ 
-    {nome: "Zummaer", xp: 5470}
+    {nome: "Zummaer Omaka", xp: 5470}
 ]
 for (let loop = 0; loop < mc.length; loop++)
     {
